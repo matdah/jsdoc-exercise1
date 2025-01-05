@@ -5,6 +5,9 @@ I denna övning ska du skriva JSDOC-kommentarer till följande funktioner. Tänk
 * Parametrar och deras typer
 * Returvärde och dess typ
 
+## Lösningsförslag
+Lösningsförslag finns i filen **main.js**.
+
 ```javascript
 function calculateArea(width, height) {
   return width * height;
